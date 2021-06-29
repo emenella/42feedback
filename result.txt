@@ -1,0 +1,612 @@
+Un rush fonctionnel, du bon travail, dommage pour une petite erreur de syntaxe qui empêche la prise en compte du bonus de la bonne syntaxe. Une apparente bonne répartition du travail et cohésion d'équipe. Bon travail !
+Très agréable. A bien pris le temps de tester notre code et accepte le débat. A faillit nous mettre 80, mais on lui pardonne tqt aucune rancoeur. Merci beaucoup.
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: KO | ex11: KO | ex12: Nothing turned in
+Très bon travail, vraiment complet, c'est un module vraiment long et éprouvant !
+Bonne correction et rigoureux
+a su rectifier ses erreurs, collègue de travail sérieux et concis. merci pour les explications.
+Correcteur sérieux et rigoureux 
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Norme error | ex11: KO | ex12: Nothing turned in
+Bon travail, dommage pour l'erreur de norme sur le ex10, bon courage pour la suite :)
+Correction rigoureuse et rapide
+dommage pour espace en trop ! solution élégante pour conversion en hexa
+Correcteur Sérieux 
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: Nothing turned in
+Bon code et bonne explication ! bonne continuation !
+Bonne correction
+Bon boulot, explique bien le code :) GL HF 
+Correcteur rigoureux et pose des bonne question technique 
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: Nothing turned in
+Parfaites explications des fonctions !
+You failed to complete this feedback within the allocated time (this is very wrong), so we did it for you (do it next time).
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: Segmentation fault | ex05: Nothing turned in
+La malediction de l'ex01 ! Mais le reste devrait passer a la moulinette ;)
+Bonne discussion et correction rigoureuse 
+Bien pour tout sauf le 01. Pas de soucis
+Rapide et efficace comme il faut !!!
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO | ex08: Nothing turned in
+a bien corrigé son erreur sur l'exo 5 mais le 7 ne fonctionne pas.
+Efficace et Super gentils
+Connais très bien son code. 
+A l'écoute et poser de bonne question
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Timeout | ex06: OK | ex07: Timeout | ex08: Nothing turned in
+timeout sur le 05
+Bon correction et a apporter des solutions
+Très bien, bon travail.
+Super correction et précision
+ex00: KO | ex01: KO | ex02: OK | ex03: OK | ex04: OK | ex05: Timeout | ex06: OK | ex07: Timeout | ex08: Nothing turned in
+rien a dire dommage pour les deux premiers exercices bonne chance pour la suite
+Bonne correction et rigoureuse 
+Super ! Tout me semble bon !
+c'était bien !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in
+très bon travail, notion bien comprise. bonne chance pour la suite ;)
+Rapide, efficace et rigoureux
+Bon code et bonne explication.
+A l'heure, bonne correction et bg
+bon code, bien expliqué ! bon courage pour la suite !
+Bon correcteur, il y a vu une belle erreur de ma part. Merci
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+basic_tests: Norme error | functional_tests: Norme error
+Dommage pour la norminette, le programme avait l'air complet et fonctionnelle, avec une team tres soudée, le travail fournit ne mériterais pas un 0 mais la norminette fais foi... 
+Très bon correcteur, malgré les erreurs de norme, il a bien pris le temps d'analyser notre code et notre programme. Merci a toi et bonne chance pour l'examen!
+Bon travail, code propre, on sent qu'ils ont tout donne. Dommage pour la norme, mais vous étiez clairement capable de le finir avec un poil plus de temps. Bon courage pour demain ! :)
+Correcteur très sympathique, a tester notre code malgré les erreurs de normes. Merci pour l'échange de connaissance, bonne chance a toi pour l'examen de demain!
+Dommage pour la norme, cependant le travail est vraiment bien réalisé et marche parfaitement. Un vrai bon travail de groupe !  Le travail a bien été parfaitement repartie. Ils méritent vraiment de valider leur piscine :-)
+Très bon correcteur, il a vérifié la propreté de notre code ainsi que son optimisation malgré les erreurs de normes, un bon échange de connaissance. Bonne chance pour demain !
+Le rendu est compris par l'ensemble du groupe, bonne idee de resolution, avec le placement de s1 et 4, manque le coeur, le backtracking, bonne continuation :)
+Il a cherche notre erreurs pour nous expliquer comment les régler. Correcteur bienveillant ;)
+Projet artisanal, qui prouve une recherche personnelle de solution. Ca fonctionne nickel, bravo
+Correcteur qui met en confiance, discussion interessante, conseils de perfectionnement pertinents
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+SUper mes felicitation !
+Bonne correction
+Maitrise du sujet et du Shell
+Bonne correction
+ex01: KO | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+En esperant que ca marche ! Bon courage 
+Bonne correction et sympa 
+Tres bien, dommage pour l'oublie de la lettre
+c'était rapide mais juste
+ex01: KO | ex02: KO | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO | ex08: Nothing turned in
+tres bien compris les exercices malgré une petite faute
+Rapide et efficace 
+erreur sur les ego 1 et 2 tout le reste ok
+Correcteur sérieux et sympathique 
+Encore désolé pour le dérangement bonne chance pour la suite ! 
+Merci pour cette correction, il a poser des questions sur le fonctionnement du project
+Bon projet, mise a part quelques ralentissements.
+Execellent correcteur, il a testé tout les cas erreurs et verifier les protection des mallocs et des nouvelle image
+Bon travail ! Tout me semble respecté, le jeu est assez fluide dans l'ensemble, bien joué pour les bonus que tu as fais ^^
+Execellent correcteur, il a testé tout les cas erreurs et verifier les protection des mallocs et des nouvelle image
+initial_errors:  | test_ft_atoi: OK | test_ft_bzero: OK | test_ft_calloc: OK | test_ft_isalnum: OK | test_ft_isalpha: OK | test_ft_isascii: OK | test_ft_isdigit: OK | test_ft_isprint: OK | test_ft_itoa: OK | test_ft_memccpy: OK | test_ft_memchr: OK | test_ft_memcmp: OK | test_ft_memcpy: OK | test_ft_memmove: OK | test_ft_memset: OK | test_ft_putchar_fd: OK | test_ft_putendl_fd: OK | test_ft_putnbr_fd: OK | test_ft_putstr_fd: OK | test_ft_split: OK | test_ft_strchr: OK | test_ft_strdup: OK | test_ft_strjoin: OK | test_ft_strlcat: OK | test_ft_strlcpy: OK | test_ft_strlen: OK | test_ft_strmapi: OK | test_ft_strncmp: OK | test_ft_strnstr: OK | test_ft_strrchr: OK | test_ft_strtrim: OK | test_ft_substr: OK | test_ft_tolower: OK | test_ft_toupper: OK | bonus: 9/9 functions correct
+Bon travail, bonnes explications sur le code et sur les questions posées, le Makefile ne relink pas, la règle bonus fonctionne bien, les fonctions precedemment fausses sont desormais corrigées, bonne chance pour la moulinette :)
+Merci pour la correction, il a testé mon code et m'a posé des questions intéressant.
+Toutes les erreurs sont bien corrigers et super bien expliqués, le make est fonctionnel et ne fais pas les releak, le make bonus est clean comme toutes les fonctions, on croise les doigts pour la moulinette et gl !
+Correcteur sympathique, il a testé correctement mon code. Bonne continuation 
+Bon travail ! Code clair et efficace ! Bonnes explications ! Tu as bien corrige les errreurs, ce coup ci cest le bon!
+Ponctuelle et sympa. Il m'a demandé ou était mes erreurs et les correction. Merci pour la correction
+initial_errors:  | test_ft_atoi: Error encountered while testing | test_ft_bzero: OK | test_ft_calloc: OK | test_ft_isalnum: OK | test_ft_isalpha: OK | test_ft_isascii: OK | test_ft_isdigit: OK | test_ft_isprint: OK | test_ft_itoa: Floating exception, Error encountered while testing | test_ft_memccpy: OK | test_ft_memchr: OK | test_ft_memcmp: Error encountered while testing | test_ft_memcpy: OK | test_ft_memmove: OK | test_ft_memset: OK | test_ft_putchar_fd: OK | test_ft_putendl_fd: OK | test_ft_putnbr_fd: OK | test_ft_putstr_fd: OK | test_ft_split: OK | test_ft_strchr: OK | test_ft_strdup: OK | test_ft_strjoin: OK | test_ft_strlcat: Error encountered while testing | test_ft_strlcpy: OK | test_ft_strlen: OK | test_ft_strmapi: OK | test_ft_strncmp: OK | test_ft_strnstr: OK | test_ft_strrchr: OK | test_ft_strtrim: OK | test_ft_substr: OK | test_ft_tolower: OK | test_ft_toupper: OK | bonus: 9/9 functions correct
+petite erreur sur le atoi domage sinon tres bon travail, ses bien expliquer
+Bonne correction, il a cherché les potentiels erreur et testé le makefile
+Tres bon travail, codes clairs et explications complètes. Les tests des batteries de tests sont passés. Attention au while pour le atoi au lieu du if. GL hf pour la suite
+Il m'a demandé d'expliquer le code et il y a tout testé. Merci pour cette correction
+L'ensemble est bon, le code marche, juste une petite erreur sur le ft_atoi qui utilise un while pour les signe et pas un if pour return 0 lors d'un cas d'erreur, le Makefile est nwaaar mais il marche, juste un probleme sur le relink du .h et des bonus mais ca c'est pas grave
+Bonne correction, derien tkt
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO
+tres beau code digne de la bienale 
+Efficace et sympatique
+C'est nickel
+Efficace et sympatique
+ex00: OK | ex01: OK | ex02: KO | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: KO | ex09: KO
+très bonne maitrise, dommage pour le dernier tu y étais presque
+Bon correcteur et avec des questions techniques 
+Très bon travail juste une bête erreur d'inattention
+Correcteur minutieux et sérieux
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+Beau code, propre, fonctionne comme demandé. attention aux inclusions de lib qui trainent mais rien de gravissime.
+Très bonne discussion sur le code et sympa 
+Bon travail !
+Rapide et efficace
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Segmentation fault
+Tout est bon !
+Un homme sérieux et rigoureux
+Dommage pour le last, changer la str par la size :( Cela reste du bon boulot pour le reste :)
+Merci pour m'avoir écrit mon erreur sur le bilan de la correction. Apres c'est un homme de confiance, je pourrais le presenter a ma soeur (si j'en avais une).
+ex00: OK | ex01: Does not compile | ex02: OK | ex03: OK | ex04: OK | ex05: Test 1 KO
+Excellent travail ! Sait expliquer son code, gg !
+Impeccable et correcteur très sympa et rigoureux
+Nickel, le code est compresi, aucuns soucis.
+Merci pour cette correction et pour l'astuce qui va a changé ma vie !
+ex00: OK | ex01: Does not compile | ex02: OK | ex03: OK | ex04: Norme error | ex05: Test 1 KO
+Très bon travail, explique super bien son code 
+correction impeccable
+Excellent travail, bonne chance pour la suite !
+impeccable et a compris le code
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: KO | ex07: Segmentation fault | ex08: Nothing turned in
+Well done ! GLHF 
+Super sympa et une correction rigoureuse 
+Super patience, beaucoup d'explications qui m'ont permis d'avancer. Merci ;)
+Sympa échange 
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: KO | ex07: Segmentation fault | ex08: Nothing turned in
+Doublon dans le comb2. Sinon bon travail.
+Bonne correction
+très bon travail, bonne compréhension des exercices. Dommage pour l'exercice 6, bon courage :)
+Bonne correction avec de bonne réflexion ;)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: KO
+bonne correction, exercices réussi
+Bonne correction et sérieux
+pas sur pour le ex05 mais sinon bon travail :)
+Bonne correction et rapide
+It was a pity for ex04 and ex05, otherwise all good!
+Thank for correction
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: KO | ex05: KO
+Bonen comprehension des exercices, bonne chance pour la suite
+Bon correction et rigoureux
+Bon travail, dommage pour les deux derniers expos
+Bonne correction ;)
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: KO | ex05: KO
+Tout me semble bon, bonne chance avec la moulinette.
+Correcteur rigoureux et sérieux ;)
+petite erreurs par ci par la sur des details mais l ensemble est bien compris
+Merci pour les conseils et les solution a mes erreurs
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: KO | ex05: Segmentation fault
+Tout est parfait !
+A l'écoute et bonne correction
+très bon nageur, bonne continuation et bon courage :)
+Bonne correction et rigoureux 
+basic_tests: GNL OK | bonus_tests: GNL OK
+Bon travail. Propre et facile a lire ! Bien joué et bonne chance pour la moulinette.
+Merci pour la correction.
+Merci pour cette efficacité et bonne chance à la moulinette !
+Super correction,elle a tout testé sur GNL. Merci
+Code lisible et claire. J'espere que l'appelle de read avec une taille de 0 ne sera pas penalisant. Bonne continuation. 
+Merci pour cette correction efficace et techniques. Merci
+basic_tests: GNL KO | bonus_tests: GNL KO
+Super travail. Le code est bien expliqué et maitrisé. Tous les tests fonctionnent, GG ! Bonne continuation et HF avec le printf ;)
+Ponctuelle et correctrice sérieuse et intéressé, elle a testé mon GNL avec différents testeur et m'a posé des questions sur les listes chaînée. Merci et bonne continuation !
+Le code est propre et bien expliqué. Merci pour les explications sur les listes. Bien joué. C'est un code plus intéressant que ceux qu'on voit d'habitude. Gl pour la moulinette maintenant!
+Bon correcteur, il a testé mon GNL correctement et m'a posé des questions sur les listes chaînée. Merci
+Superbe travail, un gnl très propre en liste chainées, le code est très bien expliqué, clair et lisible. Y'a de quoi être fier, bon courage pour printf :D
+Correcteur ponctuelle et intéressé par GNL, il a testé avec son propre main. Merci
+ex00: OK | ex01: OK | ex02: OK | ex03: OK
+Un vrai travail artiste, quel talent !
+Meilleur correcteur nocturne !
+travail propre, et peut expliquer.
+Correction juste et meme en doute mon code
+ex00: KO | ex01: OK | ex02: OK | ex03: Norme error
+Très bon code ! Bonnes explications ! Petit problème de norme sur le dernier (ex03) ! Dommage :/
+Bon correction !
+Dommage pour la norminette avec le 4!
+Bonne correction et rigoureuse 
+Tres bon projet, tres bien compris comme me montrent tes explications. Bonne continuation ! 
+Merci pour les travaux
+Parfait ! Le soucis des entiers negatifs a ete patch, gg et bonne chance pour la suite !
+Merci pour les travaux
+Bon travail, l'algo est lisible et bien expliqué!
+Merci pour les travaux
+Tres bon projet avec de bons scores, dommage pour le négatif aui n'est pas gere. A part ca tout semble parfait. Bon courage.
+Correction juste
+Super de bonnes explications, de bonnes indications pour la suite et un code expliquee avec soins
+Correcteur sympa et intéresser, il y a tester mon projet et a vu et compris mon code.
+Code fonctionnel. Bonnes explications de l'algo. :)
+Correcteur rigoureux, a chercher a comprend mon code, dommage pour le retard
+Projet fragile, en effet il ne fait rien quand il y a une stack de 4. il autorise les maxint/minint. Il n'y a pas de headers dans les .c.
+Bon correction, il a relevé les erreurs du projet. Merci
+Projet bien mené et bien expliqué, très bonne compréhension des signaux. Bonne continuation et au plaisir !
+Super correcteur
+Bon travail, merci pour les explications !
+Super correcteur
+Good job !
+Re
+Tres propre ft_server tout marche correctement, avec des explications claires. Bonne continuation :)
+Bon correcteur même si on a passé plus de temps a faire marcher docker qu'a me corriger ;) Merci !!!
+Tout est bon, explications claire bien jouer.
+Merci pour cette correction examplaire
+Bon projet ! Bonnes explications ! ++
+Merci pour cette correction serieux et rigoureux. Merci
+default: Everything went well and your mark is: 100
+Comprends très bien ce qu'il a fait je n'ai pas réussie à trouvé d'erreur.
+Correcteur sérieux et ponctuelle, Il a verifé la totalité des questions. Merci et bonne continuation
+QCM parfait, rien à dire ! Tu gères !
+Merci pour la correction, il a pris le temp sur chaque question et ma demandé des justifications les questions . Bonne continuation
+Le qcm a l'air bon, il a bien était expliquer bonne chance pour la moulinette.
+Merci pour cette correction, il est resté attentif a mes explications et les réponces. Bonne continuation
+default: Everything went well and your mark is: 95
+Good project, good explations. The project is undertood. Good luck for the nexts corrections!
+Ponctuelle et correcteur sérieux qui pose des questions technique et cherche si je suis pas tromper sur les questions. Merci
+trop fort pour moi bravo 
+Bonne correction, j'ai expliqué les bases du réseau et il a compris
+Dommage pour la petite erreur sur le calcul de la plage, les notions sont parfaitement maitrisé.
+Correction parfait, il a poser des question pour comprend les notion de réseaux
+tres bon travail ! Merci pour les informations sur netwhat
+Correcteur interéssé et a l'écoute de mes explications
+bonne connaissances dans l'ensemble, petite erreur sur une double négation mais rien de bien méchant bon courage pour le repush :p
+Correcteur attentif et sérieux. il a trouvé mon erreur et il m'a expliquer la difference en UDP et TCP. Merci
+test_spdxiucpercent: 8/8 correct functions | test_fields: 4/4 correct functions | bonus_test: KO (Does not compile)
+Tres bon travail, touts les tests realiser sont ok, pas de leaks, code lisible.
+Correcteur rigoureux et. il a passé les testers ,a lu et compris mon code
+Code propre et bien expliqué. Cette fois c'est la bonne !
+Correction rigoureux et objective, il y a compris mon code et tester mon printf sans probléme. Merci
+Super travail, code très intéressant et bien expliqué. Tous les tests ont fonctionnés. Bonne continuation ;)
+Merci pour la correction rigoureuse et serieuse, Merci
+test_spdxiucpercent: 8/8 correct functions | test_fields: 4/4 correct functions | bonus_test: KO (Does not compile)
+Bon travail, l'erreur a été corrigée, le code est bien expliqué et clair, pas de leaks et bravo :)
+Correcteur sérieux qui a compris le fonctionement de mon printf et tester avec tous les cas de printf demander. Merci bg
+tres bon code hypper classe , hypper travailler avec des liste chainer . vraiment bien jouer . bonne chance pour la suite.
+Petit retard mais correction efficace et attentif sur mon explication de mon printf. Merci
+Attention il faut lister explicitement l'intégralité des sources utilisés, ainsi que utiliser le makefile de libft.
+Rien a dire !
+test_spdxiucpercent: 8/8 correct functions | test_fields: 4/4 correct functions | bonus_test: KO (Does not compile)
+Tres bon printf sauf pour la precision avec une adresse (NULL) qui doit retourner 0x et non rien. Juste le petit cas de la precision et de l'adresse et tout est bon ;)
+Merci pour la correction et de m'avoir montrer les erreurs.
+Code super intéressant, rempli de petits tips et originalités que je n'ai vu nulle part ailleurs, merci pour tes explications ! Très dommage pour le %.p qui n'est pas géré, mais ça ne devrait pas te prendre trop de temps ;) Bonne chance pour le prochain dans 24h !
+Merci pour cette correction serieuse et elle a bien relue mon code et a poser des question. Merci pour le commentaire ;)
+Dommage pour le .p que je n'ai meme pas testé, en très bon correcteur que je suis. Bien expliqué sinon, bravo!
+Correcteur serieux et rigourieux
+ex00: OK | ex01: OK | ex02: OK | ex03: OK
+tres bonne optimisation du code, specialement sur le write. bravo.
+Correcteur agréable, et correcteur intéressé par le ft_sort_params
+Tout bon !
+Correcteur impliqué et rigoureux
+Bonne video, correctement présentée, montée. Le sujet est maitrisé, bien jouée a toi ;)
+Correcteur intéressé, merci pour la correction !
+Bonne vidéo explicative d'un stage qui semblait intéressant. GG
+Echange intéressant sur continuous integration / continuous deployment. Merci pour la correction !
+Super rendu, explications claires, video propre.
+Correcteur attentif, échange intéressant. Bon courage pour 42sh, merci pour la correction !
+très bonne vidéo avec le but du stage très bien expliquer. bonne continuation!
+Merci pour la correction !
+Bonne vidéo, claire et bien réalisée sur le fond comme sur la forme. Gj et profite du +3 levels ça arrive pas souvent.
+Merci pour la correction !
+La video est très bien réalisée sur le plan technique.
+Correcteur intéressé et compréhensif. Merci pour la correction !
+Bonne video ! 
+Merci pour la correction !
+Bon résumé de stage. 
+Merci pour la correction, une application particulière à être pertinent dans ses remarques et ses notations malgré une fatigue apparente.
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+Juste parfait.
+Correction juste parfaite.
+top, tout est juste ! 
+Ponctuelle et intéressée. Merci pour la correction ! :-)
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+Bon travail, code concis, bon courage pour la suite pour le C :)
+Très bon correcteur, bon explication. Rigoureux et fort sympa ! bonne continuation 
+Bravo bis bis ! Evaluation express mais good job pour les 7 premiers exercices. Bonne continuation ;)
+Très sympa et bonne discussion. Bonne continuation !
+ex01: OK | ex02: OK | ex03: KO | ex04: OK | ex05: OK | ex06: KO | ex07: Nothing turned in | ex08: Nothing turned in
+tout est compris et juste, erreur potentiel dans l exo3
+correction avec beaucoup de bonnes remarques !
+bonne comprehension des exercices et bonne continuation pour la suite
+Bon correcteur et donne de bon conseil  ! bonne continuation 
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK
+tout est bon, gg
+Bon correcteur, a bien verifié tous les exos
+rien a dire bonne comprehension bonne chance pour la suite 
+Correcteur efficace et rigoureux !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+Bon travail ! Attention au prototypage des fonctions. Bon courage avec la moulinette :)
+Merci pour cette correction :)
+Bon travail, code concis et propre, bonnes explications sur les exercices, maitrise son code, bon courage pour la suite :)
+J'espere que ta bouffe était bonne mec. Bon'app surtout ! :-)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+tres très bon code, et explications
+Bonne evaluation et bonne correction ! Bon courage pour l'examen final !
+Bonne compréhension des exercices bonne chance pour la suite 
+Bone correction et a prit le temps e bien voir les fonctions ! bon courage pour l'examen final !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+tou bon !
+Bom correcteur !
+Excellent travail, sujet compris dans l'ensemble, explications pertinentes! bravo !
+Bon correcteur ! très sympa et cherche à comprendre ! bon courage !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+Très beau code sur le print_combn !
+Très bon correcteur ! et a testé la fonction en question ! bon courage pour l examen final !
+très bon code tout marche très bien
+Très bon correcteur et bon courage pour l'examen final ! 
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+très bon travail !
+Bon correcteur et sympa ! Bon courage !
+colleague très serieux, a su m expliquer son travail dans les details. très sympas
+Très bon collègue et bosseur ! bon courage !
+ex00: OK | ex01: OK | ex02: OK
+Bon travail, un code compris et bien expliqué, merci pour l'échange. bonne chance pour demain !
+Bonne correction et bon échange ! très bon correcteur ! 
+Tout est parfait bien joué, force à toi pour l'examen.
+Bonne correction et bon échange ! bon courage a toi aussi pour l examen final !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Nothing turned in | ex11: Nothing turned in | ex12: Nothing turned in
+bonne correction
+bon evaluation rapide et efficace
+Bon travail, erreurs corrigées, bon courage pour le rush :)
+bon évaluateurs sympathique et perspicace 
+petite erreur d'inattention a l'exo06 sinon tout est bon
+bon correcteur qui a bien tcheck toutes les erreurs :)
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: KO | ex01: OK | ex02: OK | ex03: OK | ex04: Does not compile | ex05: OK | ex06: KO | ex07: OK | ex08: OK | ex09: OK | ex10: Nothing turned in | ex11: Nothing turned in | ex12: Nothing turned in
+Aucuns soucis, code bien compris
+bon évaluateurs
+Unfortunately a fail in ex00. Sorry. GLHF dude !
+perspicace dans sont evaluation 
+C'est domaaaaaaage pour cet oubli de norme pour l'ex04, sinon ca a l'air d'être bon pour le reste. Bon courage pour la suite l'ami!
+gentils et evalue bien
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Bon groupe ! 
+Soutenance agréable, correctrice ouverte au dialogue. Merci pour cette correction du Rush01 ! :-)
+basic_tests: Segmentation fault | functional_tests: OK
+Une correction étoilée, belle démonstration de ce bsq ! Il fonctionne parfaitement, une excellente connaissance de ce sujet ! Merci à eux, c'était énorme ! Bravo à vous pour la réalisation de ce projet au vu de la difficulté ! Bon courage pour la fin de cette piscine !
+Merci a toi pour ton attentivite et ta joie de vivre, bonne continuation a toi :)
+un tres bon travail est une bonne cohesion d'equipe, tous les tests marche, rien a dire.
+Merci toi pour ta gentillesse et ton implication dans cette correction
+Très bon projet de groupe, Bon travail ! Bien joué a vous ;)
+Epoustoufflant, un correcteur sans pareil, un si bel homme que j'en suis tombe a la renverse, Merci a toi
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+Très bon travail ! Explique super bien son code ! Parfait :D 
+Correcteur impliqué, executant de nombreux test ! Merci pour cette correction !
+Bon code et bonne explication ! j'espère que la moulinette sera clemente 
+Le correcteur sympathique et chill par exemple. Merci pour cette correction !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+Tout me semble bon, très bonne explication. GLHF ;)
+Bonne correction et pose des questions sur le code ! +1
+Nickel, code biem compris, bon courage pour la suite :)
+très sympa et agréable ! bonne correction et a donner de bon conseils sur le code ! bon courage !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: Timeout | ex06: OK | ex07: KO | ex08: Nothing turned in
+Bon code et bonnet explication.
+Bonne correction et mentionne le problème du timeout 
+Bon code et bonnes explications, bien joué !
+Bonne correction et bon test !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+Tout les exercices ont étais compris, bon travail ! :)
+Correcteur aimable et très intéressé par le sujet des algorithmes de tri sur tableaux (tri bulle, insertion etc...). Je te souhaite le meilleur pour la suite de ta Piscine !
+oui.
+Mais, c'est mon voisin ! Et il me corrige ! WATDEFUCK
+basic_tests: GNL OK | bonus_tests: GNL OK
+Super GNL, bonne gestion du multi-fd et excellente compréhension du chargement d'un binaire au runtime. Bonne continuation !
+Super correction, beaucoup de test effectué, correcteur agréable ouvert au dialogue. Merci !
+tres bon travail tout me semble ok bon courage pour la suite
+Très bonne correction, correcteur investi, qui a exécuté ses propres tests et s'est intéressé à l'implémentation choisi. Merci beaucoup !
+GNL fonctionnel, expliqué clairement, sujet maitrisé, que dire de plus ? Tout est parfait !
+Correction agréable, grosse re-lecture du code, a bien pris le temps nécessaire pour s'assurer de comprendre l'algorithme.
+Très bon GNL, code bien expliqué et très propre, gg a toi!
+Correcteur agréable, et clairement bien informé des différents tests a effectuer sur un get_next_line. Merci !
+Très bon travail
+Une correction de type speedrun (a cause des horaires du couvre feu) et malgré cela il a réussi a faire crash mon get_next_line, cet homme est le John Wick des corrections !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+INCROYABLE ! Du travail de qualité, du jamais vue ! j'chui chock
+Remarquable correcteur ! Echange fort sympathique. Merci de ton soutiens, bon courage pour la suite :)
+très bon exercice, bonne comprehension
+Super échange ! Merci pour tes conseils, bon courage pour la suite de la piscine :)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+Très bon code, propre et a bien expliquer les dernières fonctions, bon courage a toi.
+Bon correcteur, très pédagogue. Merci pour tes conseils !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Très bon groupe, bonne cohésion  ! 
+Correctrice aimable, bienveillante et comprehensive. À su nous remotiver malgré la complexité du projet. Merci :)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+très bon code et bien visible
+Bonne correction, ponctuel et intéressé par le code :)
+Très bon travail, bonne chance pour la suite.
+Bon correcteur, le code a été testé correctement :)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+bonne compréhension, GG a toi GL next
+très bonne correction, sympathique et intéresse par le code
+bonne correction, bonne comprehension
+très bon correcteur !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+bravo pour ta super validation ! je suis super heureux d'avoir un fils conme toi je serais toujours fière de ce que tu fais et je t'encouragerais quoi qu'il arrive ! je t'aime <3 bonne chance pour demain mon choux :*
+oui oui très beau
+Bon travail ! comme le célèbre chanteur Justin Monstre.
+yes la vie 
+ex00: OK | ex01: OK | ex02: Segmentation fault | ex03: OK | ex04: OK | ex05: OK
+Pas de soucis. Bon courage pour demain !
+bonne chance pour l'exam
+Toute petite erreur sur l'ex02. Tout le reste est juste. Connais bien son code. 
+yes hein
+ex00: OK | ex01: OK | ex02: KO | ex03: OK | ex04: OK | ex05: OK
+Bon travail, erreurs corrigées sur le ex02, 03 & 04, bon courage pour l'exam final!
+tangible
+Dommage pour le return de l' exo1 sinon tout me paraît bin. Bn chance l'exam :)
+tres tres bons conseils 
+ex00: Segmentation fault | ex01: KO | ex02: OK | ex03: OK | ex04: Segmentation fault | ex05: KO
+quel crack, quoi dire ...
+solide sur les appuis
+Ca a l'air sympa en tout cas, bonne chance pour la broyeuse
+solide sur les appuis
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: KO
+Excellent travail, bonne chance pour la suite !
+merci pur les conseils, bon courage pour exam
+Incroyable, tout me parrait  correcte !
+Super correction, et bon courage pour l'exam :)
+ex00: OK | ex01: OK | ex02: KO | ex03: OK | ex04: KO | ex05: KO
+Des codes de l espace pour un résultat fonctionnel ! 
+solides explications
+Tout est bon, sauf une erreur dans le 05... Bon courage !
+solides explications
+Les nombre négatif ne sont pas entièrement gérés. Le code est compris par tout les membres du groupe. Et attention à la norme.
+Evaluation precise.
+Dommage pour le cas d'erreur y = 0, sinon bon projet. Bonne chance pour la suite de la piscine.
+ras
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+basic_tests: Norme error | functional_tests: Norme error
+Dommage pour la norminette, le programme avait l'air complet et fonctionnelle, avec une team tres soudée, le travail fournit ne mériterais pas un 0 mais la norminette fais foi... 
+Très bon correcteur, malgré les erreurs de norme, il a bien pris le temps d'analyser notre code et notre programme. Merci a toi et bonne chance pour l'examen!
+Bon travail, code propre, on sent qu'ils ont tout donne. Dommage pour la norme, mais vous étiez clairement capable de le finir avec un poil plus de temps. Bon courage pour demain ! :)
+Correcteur très sympathique, a tester notre code malgré les erreurs de normes. Merci pour l'échange de connaissance, bonne chance a toi pour l'examen de demain!
+Dommage pour la norme, cependant le travail est vraiment bien réalisé et marche parfaitement. Un vrai bon travail de groupe !  Le travail a bien été parfaitement repartie. Ils méritent vraiment de valider leur piscine :-)
+Très bon correcteur, il a vérifié la propreté de notre code ainsi que son optimisation malgré les erreurs de normes, un bon échange de connaissance. Bonne chance pour demain !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Norme error | ex08: Nothing turned in
+Un seul exo a corriger, bine joué à toi, courage pour la suite
+Un homme efficace, il a verifié ce qu'il fallait, parfait ! Merci et bon courage à lui pour la suite !
+Tout est juste, dommage pour le main furtif qui traine a la fin du 7 ... maniere interessante d'aborder les exercices en tout cas, bonne continuation
+Heureux de lui avoir fait voir d'autres choses que ses corrections habituelles ! Merci à lui pour son intêret, très sympathique !
+ex00: OK | ex01: OK | ex02: OK | ex03: KO | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+Exercices bien compris et bien expliqués, dommage pour l'exercice 03 petite erreur qui sera facilement corrigée, bonne continuation pour ta piscine !
+Très gentille, j'ai pu découvrir deux trois petits tricks, merci à elle ! 
+quel dommage pour ce 0 qui s'est glissé surement une faute d'inattention  le reste est presumé bon merci pour les explications ! bon travail courage 
+Merci pour sa patience, un échange très interessant ! Ultra agréable merci à lui !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+🐉 🐲contrairement a ce dragon qui est venere, le rush ne l'est vraiment pas. blague a part, oubli de push et mauvaise gestion generale du travail de groupe. Malgré une bonne foi apparente, le retard de connaissance etait tel qu'ils ont passé beaucoup de temps a essayer de comprendre les notions, ce qui les a découragé. Les notions a comprendre ont ete comprises. Bon courage pour la suite.
+Une bonne correction, merci pour les conseils sur le code et les notions.
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+tout bon !
+Merci pour l'eval, hâte de voir si ça passe !
+Biens jouer, très bon code, un petit sur le return du ex04 et bien jouer pour le strlcat ;)
+Merci merci, tout pareil, on croise les miches !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Does not compile | ex05: OK
+pense a inclure stdio.h pour les NULL, l'ex 3 ne compile pas;  bon travail autrement, bon courage pour la suite !
+Merci avoir levé l'erreur du retour NULL, ça m'évitera de chercher la cause du KO !
+dommage pour l'utilisation du null dans l exercice 4, code difficilement compréhensible pour ma part mais semble bien s'y retrouver dedans l'ensemble semble compris.
+A part l'oubli des flags, je crois que tout est carre. Merci de la correction !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: OK
+Excellent travail, bonne chance pour la suite !
+Merci et merde pour edge of tomorrow ;)
+insh ca passe la sainte mouli
+Merci pour cet auto-pilotage au poil. Bonne chance demain !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: Segmentation fault
+c tout bon, très bien
+Merci d'avoir pointé la nécessité (éventuelle mais quand même) de basculer mes int en long int pour le convert_base !
+Super ! Merci beaucoup pour toutes les explications et pour tout ton temps.
+Merci de l'évaluation et de l'intérêt méticuleux porté aux différents exercices :)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: KO
+parfait bonne compréhension des exo bonne continuation !!
+Merci pour l'éval' et bonne fin de C03 and to be continued and stuff
+Bonne explication, bon code, en espérant que ça passera a la moulinette pour les deux derniers exercices ! Bon courage 
+Super carré durant tout l'éval' ! Ce qui était raisonnablement testable l'aura été. Après, c'est comme d'hab'. On croise les 'oids.
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO | ex08: Norme error
+Très bon travail, on ressent le travail d'un mathématicien ^^
+quelle évacuatrice formidable, elle n'a pas hésité a sacrifier du temps pour me corriger en details, je recommande  x) 
+un code complique a comprendre mais fonctionne sur les tests, dommage pour l ex 07 les négatif ne sont pas traite.
+tres bons conseils
+Super !
+oui
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Nothing turned in | ex08: Nothing turned in
+Tres bien, je suis choque par le travail fournis tellement qu'il est bon, dommage pour le 7 et 8 mais quand meme je suis fier de toi.
+Rapide et efficace. Personne très encourageante ! Merci pour le soutiens :)
+compliques moins ton code, ca ira mieux !
+Adorable ! Merci pour tes explications :)
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO | ex06: OK | ex07: Nothing turned in | ex08: Nothing turned in
+toute petite erreur sur ex05 (\$), mais sinon on est bon. Courage!
+Amical
+dommage pour la petite erreur, sinon tout ce qui a été compris
+super cool
+ex01: KO | ex02: OK | ex03: KO | ex04: KO | ex05: KO | ex06: KO | ex07: Nothing turned in | ex08: Nothing turned in
+Bon courage pour ton prochain retry ! On y croit !!
+Merci pour tes précieux conseils !
+Erreur mineur au premier exercice mais comprehension globale du projet acquise. Beaucoup d'exercices justes. Courage
+Très pédagogue ! Merci pour tes explications :D
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: KO | ex11: Bus error | ex12: Nothing turned in
+très bon travail, bonne chance pour la moulinette.
+très bonne correction
+bonne correction l'élève pépin a été bref et concis sur son code, il prend en consideration toutes formes d'elevation spirituelle
+téméraire et vif, correction d'une qualité exceptionnelle
+ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Segmentation fault | ex11: KO | ex12: Nothing turned in
+il y a un pb sur l'ex01, il faut mettre du padding sur les caractères restants. il ne faut pas mettre de \0 si src fait exactement n caractères
+merci beaucoup pour les conseils
+:(
+de tres bons conseils
+ex00: OK | ex01: Does not compile | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Does not compile | ex11: KO | ex12: Nothing turned in
+RIP, en vrai dommage pour le 01 sinon le reste est pas mauvais je penses
+merci des conseils, j'ai le seum cependant 
+Le projet est compris, dommage pour la petite erreur dans le ex01, int et unsigned int sont imcomparables :o 
+très grand intérêt pour mon code, explications detailees 
+ex00: KO | ex01: Does not compile | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: Does not compile | ex11: KO | ex12: Norme error
+Tout semble bon jusqu'au ex11, dommage pour le petit oubli ex01, élève sympa, bon courage !
+la yes life
+Fait plus attention a ton code avant de push ;)
+on verra bien hein
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in | ex06: OK | ex07: KO | ex08: Nothing turned in | ex09: Nothing turned in
+dommage pour le 5, bon courage pour la suite
+très encourageant !
+majorité des exos compris, dommage pour le 5, sinon concepts compris :)
+Donne de bons conseils, merci !
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in | ex06: OK | ex07: KO | ex08: Nothing turned in | ex09: Nothing turned in
+pb avec klist et ex05 et ex07
+Explications claires, merci beaucoup !
+Manque l'exercice 5
+Très motivant, merci beaucoup !
+ex00: OK | ex01: KO | ex02: KO | ex03: OK | ex04: KO | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
+good 
+très interessant 
+Be careful with the edit date for the first exercises
+donne de bons conseils
+ex00: OK | ex01: OK | ex02: OK | ex03: KO | ex04: OK | ex05: Nothing turned in
+très bon travail, bonne chance pour la moulinette
+Rapide et efficace, merci !
+bonne comprehension des exercices, bonne chance pour la suite !
+rapide et efficace, merci !
+ex00: OK | ex01: OK | ex02: OK | ex03: Timeout | ex04: OK | ex05: Nothing turned in
+Bien joué. Bon retour parmi nous
+Correction rapide et efficace !
+Bon travail, erreurs corriges sur l'ex04, bon courage pour la dernière semaine :)
+Bon correcteur ! Merci du soutiens.
+ex00: OK | ex01: OK | ex02: OK | ex03: Timeout | ex04: OK | ex05: Nothing turned in
+Tout est bon sauf l'ex03 qui affiche que les caractères des deux chaines en suivant le nombre fournit par nb! courage pour la suite!
+Correction rapide et efficace. Donne de bonnes explications, merci !
+Bon travail, inclus <stdio.h> dans ton 4, dommage pour la petite erreur au ex03, bon courage pour la suite !
+Bon correcteur ! Merci pour tes conseils :)
+ex00: OK | ex01: OK | ex02: OK | ex03: Timeout | ex04: KO | ex05: Does not compile
+exercices ok, petite erreur au 03(strncat) mais rien de grave, erreur vite identifiée et corrigée. dommage pour le 05, tu commences a avoir la logique. courage pour la suite.
+Excellent correcteur. Fait les tests complets, donne de bonnes explications. Merci pour tes conseils :)
+Good work overall, pity for ex03. bon courage!
+Bon correctrice, a su m'expliquer mes erreurs. Merci du soutiens :)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in
+Bon code et bonne chance pour ton 564894897456e retry
+Merci pour la correction poussée et les petites explications sur mes exos ! Une personne agréable avec qui j'ai bien aimé parler ! Good luck !
+Super entretien, de très bons codes. Calvin est très sympathique et amicale. Des whiles très intéressant. Bonne continuation !
+Une correction super interessante avec une personne vraiment sympathique ! Merci encore pour cet échange, cela m'aura permis de montrer des whiles cools ! :D Merci encore Guillaume !
+ex00: KO | ex01: Does not compile | ex02: OK | ex03: OK | ex04: KO | ex05: Nothing turned in
+malheureusement le ex01 ne passe pas  mais pour moi tout les autre exo etait bon, bon courage a lui, calvin etait fort sympathiaue j ai passe un super correction 
+Personne très sympa ! Une bonne correction qui aura été assez court vu mon erreur (once again), un bon échange en espérant que tout se passera bien pour ta piscine ! 01101101 01100101 01110010 01100011 01101001 00100000 01100010 01100101 01100001 01110101 01100011 01101111 01110101 01110000 00100000 00100001 00100000 01100011 01101011 01110101 01110010 01110100 01101010 01100101 00100000 01110100 01011100 00100111 01100001 01101001 01101101 01100101 
+dommage petit oublie, bonne chance pour la suite.
+Merci pour les explications et pour m'avoir indiqué encore un oubli de ma part ! Good luck pour la suite !
+Tout est juste sauf l ex01 ou c est une catastrophe !!!! mais ou est le ft ?
+Merci pour la correction poussée, une aide précieuse sur un exercice loupé, bonne chance pour la suite !
+Missing peer-evaluation replaced by a 0
+The Intranet is right ! I deserve this 0 !

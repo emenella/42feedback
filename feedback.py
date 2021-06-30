@@ -81,10 +81,11 @@ def boucle(session: Session, project: str, limit: int):
 	if (limit < 8):
 		limit += 1
 		feedback = get_feedback(session, project)
-		for f in feedback:
-			print(f)
+		# for f in feedback:
+		# 	print(f)
 		profils = get_profil_from_project(session, project)
 		for p in profils:
+			print(p)
 			explorer(session, p, limit)
 	exit()
 

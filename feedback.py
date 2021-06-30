@@ -86,6 +86,7 @@ def boucle(session: Session, project: str, limit: int):
 		profils = get_profil_from_project(session, project)
 		for p in profils:
 			explorer(session, p, limit)
+	exit()
 
 def explorer(session: Session, entrypoint: str, limit: int):
 	projects = get_project(session, entrypoint)

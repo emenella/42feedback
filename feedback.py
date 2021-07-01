@@ -78,15 +78,14 @@ def get_profil_from_project(session: Session, url: str):
 	return(profil)
 
 def boucle(session: Session, project: str, limit: int):
-	if (limit < 8):
-		limit += 1
-		feedback = get_feedback(session, project)
-		# for f in feedback:
-		# 	print(f)
-		profils = get_profil_from_project(session, project)
-		for p in profils:
-			print(p)
-			explorer(session, p, limit)
+	limit += 1
+	feedback = get_feedback(session, project)
+	for f in feedback:
+		print(f)
+	profils = get_profil_from_project(session, project)
+	for p in profils:
+		# print(p)
+		explorer(session, p, limit)
 	exit()
 
 def explorer(session: Session, entrypoint: str, limit: int):
@@ -98,10 +97,11 @@ def explorer(session: Session, entrypoint: str, limit: int):
 		proc.start()
 	for proc in procs:
 		proc.join()
+	exit()
 
 
 def main():
-	user = "https://profile.intra.42.fr/users/emenella"
+	user = "https://profile.intra.42.fr/users/vgallois"
 	session = requests.session()
 	login(session)
 	explorer(session, user, 0)

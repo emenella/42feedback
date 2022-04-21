@@ -5,7 +5,9 @@ from requests import adapters
 from requests.models import Response
 from requests.sessions import Session
 from bs4 import BeautifulSoup as bs
-from multiprocessing import Process
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def login(session: Session):
@@ -16,7 +18,7 @@ def login(session: Session):
 		'utf8': '\u2713',
 		'authenticity_token': str(token),
 		'user[login]': 'emenella',
-		'user[password]': '6Exetaquearles!',
+		'user[password]': os.getenv("PASSWORD"),
 		'commit': 'Sign in'
 	}
 	response = session.post('https://signin.intra.42.fr/users/sign_in',data=data)
@@ -77,34 +79,12 @@ def get_profil_from_project(session: Session, url: str):
 		profil.append(a.get('href'))
 	return(profil)
 
-def boucle(session: Session, project: str, limit: int):
-	limit += 1
-	feedback = get_feedback(session, project)
-	for f in feedback:
-		print(f)
-	profils = get_profil_from_project(session, project)
-	for p in profils:
-		# print(p)
-		explorer(session, p, limit)
-	exit()
-
-def explorer(session: Session, entrypoint: str, limit: int):
-	projects = get_project(session, entrypoint)
-	procs = []
-	for project in projects:
-		proc = Process(target=boucle, args=(session, project, limit))
-		procs.append(proc)
-		proc.start()
-	for proc in procs:
-		proc.join()
-	exit()
-
 
 def main():
 	user = "https://profile.intra.42.fr/users/vgallois"
 	session = requests.session()
 	login(session)
-	explorer(session, user, 0)
+	
 	logout(session)
 
 if __name__ == "__main__":

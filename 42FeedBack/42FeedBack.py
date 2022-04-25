@@ -1,4 +1,6 @@
 #! /Users/emenella/.brew/bin/python3
+from math import fabs
+import re
 from readline import replace_history_item
 import requests
 import os
@@ -8,26 +10,28 @@ from requests.sessions import Session
 from bs4 import BeautifulSoup as bs
 from lxml import etree
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
+jsonFile = open("data.json", "w")
 
 headers = {
-    'authority': 'profile.intra.42.fr',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'accept-language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
-    'cache-control': 'max-age=0',
-    # Requests sorts cookies= alphabetically
-    # 'cookie': '_intra_42_session_production=ba9b1b4ce7dece57c69bb8257302eca2; _ga=GA1.1.451156037.1643927522; user.id=NzcxMTM%3D--0cd1bb825949f0731cf0e37e74860efec5ce3eec; locale=fr; _ga_BJ34XNRJCV=GS1.1.1650568194.26.1.1650568241.0',
-    'if-none-match': 'W/"23a262e955568219ffb788a54a2d94f9"',
-    'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Windows"',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36',
+	'authority': 'profile.intra.42.fr',
+	'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+	'accept-language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+	'cache-control': 'max-age=0',
+	# Requests sorts cookies= alphabetically
+	# 'cookie': '_intra_42_session_production=ba9b1b4ce7dece57c69bb8257302eca2; _ga=GA1.1.451156037.1643927522; user.id=NzcxMTM%3D--0cd1bb825949f0731cf0e37e74860efec5ce3eec; locale=fr; _ga_BJ34XNRJCV=GS1.1.1650568194.26.1.1650568241.0',
+	'if-none-match': 'W/"23a262e955568219ffb788a54a2d94f9"',
+	'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+	'sec-ch-ua-mobile': '?0',
+	'sec-ch-ua-platform': '"Windows"',
+	'sec-fetch-dest': 'document',
+	'sec-fetch-mode': 'navigate',
+	'sec-fetch-site': 'none',
+	'sec-fetch-user': '?1',
+	'upgrade-insecure-requests': '1',
+	'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36',
 }
 
 def login(session: Session):
@@ -60,10 +64,11 @@ def get_project(session: Session, url: str):
 	# print(response.text)
 	dom = etree.HTML(response.text)
 	links_with_text = dom.xpath('//div[2]/div[1]/div/div/span/a')
+	result = []
 	for link in links_with_text:
 		print(link.text)
-		get_feedback(session, link.get('href'))
-	return (links_with_text)
+		result.append(get_feedback(session, link.get('href')))
+	return result
 
 def get_feedback(session: Session, url: str):
 	reponse = session.get(url)
@@ -72,6 +77,7 @@ def get_feedback(session: Session, url: str):
 	corrector = []
 	feedback = []
 	reply = []
+	result = []
 	for i in range(nbRetry):
 		corrector.append(dom.xpath("/html/body/div[4]/div[3]/div/div[2]/div[2]/div[2]/div/div[{}]/div/div[6]/div/div[2]/div[1]/b[1]/a/@href".format(i)))
 		corrector.append(dom.xpath("/html/body/div[4]/div[3]/div/div[2]/div[2]/div[2]/div/div[{}]/div/div[7]/div/div[2]/div[1]/b[1]/a/@href".format(i)))
@@ -86,27 +92,36 @@ def get_feedback(session: Session, url: str):
 	feedback = list(filter(None, feedback))
 	reply = list(filter(None, reply))
 	for i in range(len(corrector)):
-		print(corrector[i])
-		print(feedback[i])
-		print(reply[i])
-		print("\n")
-		
-		
-
-def get_profil_from_project(session: Session, url: str):
-	reponce = session.get(url)
-	parser = bs(reponce.content, "html.parser")
-	profil = []
-	for a in parser.find_all('a', {'data-tooltip-url': 'https://profile.intra.42.fr'}):
-		profil.append(a.get('href'))
-	return(profil)
-
+		obj = {
+			"corrector": corrector[i],
+			"feedback": feedback[i],
+			"reply": reply[i]
+		}
+		result.append(corrector[i])
+		json.dump(obj, jsonFile)
+	return list(filter(None, result))
+	
+def explore(session: Session, url: str):
+	
+	ArrayBool = []
+	ArrayUrl = []
+	ArrayUrl.append(url)
+	ArrayBool.append(False)
+	while True:
+		for scan in range(len(ArrayUrl)):
+			if(ArrayBool[scan] == False):
+					ArrayBool[scan] = True
+					tmp = get_project(session, ArrayUrl[scan])
+					for i in range(len(tmp)):
+						ArrayUrl.append(tmp[i])
+						print(tmp[i])
+						ArrayBool.append(False)
 
 def main():
 	user = "https://profile.intra.42.fr/users/vgallois"
 	session = requests.session()
 	login(session)
-	get_project(session, user)
+	explore(session, user)
 	logout(session)
 
 if __name__ == "__main__":

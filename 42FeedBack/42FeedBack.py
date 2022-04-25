@@ -64,10 +64,10 @@ def get_project(session: Session, url: str):
 	# print(response.text)
 	dom = etree.HTML(response.text)
 	links_with_text = dom.xpath('//div[2]/div[1]/div/div/span/a')
-	result = []
+	result = {}
 	for link in links_with_text:
 		print(link.text)
-		result.append(get_feedback(session, link.get('href')))
+		result += get_feedback(session, link.get('href'))
 	return result
 
 def get_feedback(session: Session, url: str):
@@ -77,7 +77,7 @@ def get_feedback(session: Session, url: str):
 	corrector = []
 	feedback = []
 	reply = []
-	result = []
+	result = {}
 	for i in range(nbRetry):
 		corrector.append(dom.xpath("/html/body/div[4]/div[3]/div/div[2]/div[2]/div[2]/div/div[{}]/div/div[6]/div/div[2]/div[1]/b[1]/a/@href".format(i)))
 		corrector.append(dom.xpath("/html/body/div[4]/div[3]/div/div[2]/div[2]/div[2]/div/div[{}]/div/div[7]/div/div[2]/div[1]/b[1]/a/@href".format(i)))
@@ -97,25 +97,22 @@ def get_feedback(session: Session, url: str):
 			"feedback": feedback[i],
 			"reply": reply[i]
 		}
-		result.append(corrector[i])
+		newKey, newValue =	corrector[i], False
+		z = newKey in result and newValue == result[newKey]
 		json.dump(obj, jsonFile)
-	return list(filter(None, result))
+	return result
 	
 def explore(session: Session, url: str):
+	users = {}
+	new_key, new_value = url, False
+	z = new_key in users and new_value == users[new_key]
+	for key in users.keys():
+		print(key)
+		if users[key] != True:
+			tmp = get_project(session, users[key])
+			users += tmp
+		
 	
-	ArrayBool = []
-	ArrayUrl = []
-	ArrayUrl.append(url)
-	ArrayBool.append(False)
-	while True:
-		for scan in range(len(ArrayUrl)):
-			if(ArrayBool[scan] == False):
-					ArrayBool[scan] = True
-					tmp = get_project(session, ArrayUrl[scan])
-					for i in range(len(tmp)):
-						ArrayUrl.append(tmp[i])
-						print(tmp[i])
-						ArrayBool.append(False)
 
 def main():
 	user = "https://profile.intra.42.fr/users/vgallois"
